@@ -41,10 +41,5 @@ int main()
 	const double FINAL_EXAM_WEIGHT = 20.0;
 
 
-
-
-
-
-
 	return 0;
 }
