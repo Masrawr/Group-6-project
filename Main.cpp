@@ -1,3 +1,5 @@
+//DO NOT CHANGE THIS CODE, MAKE CHANGES IN DEVELOPMENT BRANCH
+
 #include <iostream>
 #include <iomanip>
 using namespace std;
@@ -19,10 +21,6 @@ double calculateWeightedAverage(double scores[]);
 void printStudentReport(string names[][2], double scores[][16], int numStudents);
 void displayMenu();
 void processUserChoice(int choice, string names[][2], double scores[][16], int numStudents);
-
-
-
-
 
 int main()
 {
