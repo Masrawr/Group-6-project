@@ -1,1 +1,5 @@
+void readDataFromFile(ifstream& inFile, string names[][2], double scores[][16], int& numStudents);
+void writeDetailedResults(ofstream& outFile, string names[][2], double scores[][16], int numStudents);
+void writeSummaryResults(ofstream& outFile, string names[][2], double scores[][16], int numStudents);
+
 
