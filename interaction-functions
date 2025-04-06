@@ -1,0 +1,12 @@
+void displayMenu();
+void processUserChoice(int choice, string names[][2], double scores[][16], int numStudents);
+
+void displayMenu()
+{
+
+}
+
+void processUserChoice(int choice, string names[][2], double scores[][16], int numStudents)
+{
+
+}
