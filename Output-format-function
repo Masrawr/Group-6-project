@@ -1,0 +1,28 @@
+//FUNCTION PROTOTYPE
+void printStudentReport(string names[][2], double scores[][16], int numStudents);
+
+
+//FUNCTION DEFINITION
+void printStudentReport(string names[][2], double scores[][16], int numStudents) 
+{   
+
+}
+
+HOW OUTPUT SHOULD BE
+
+Format gradesOut1.txt as:
+Student’s first name, last name 
+attendance
+group work
+average of quizzes 
+average of labs 
+average of homework
+the final exam
+the course average
+Format gradesOut2.txt as:
+Student’s first name, last name 
+Course average (out of 100 points)
+Letter grade
+In gradesOut2.txt, include the following information at the end of the tabular data lines:
+Total number of students in this class
+The average of course average (out of 100)
